@@ -1,0 +1,17 @@
+1) From the code we have submitted, The output will be :-
+
+  "  [beast, beats][eat, tea][act, cat] "
+
+  The output can be changed by add more words in the string A.
+
+
+2)      Operations :1
+	Operations :2
+	Operations :3
+	Operations :4
+	Operations :5
+	Operations :6
+	[beast, beats][eat, tea][act, cat]
+
+
+THANK YOU
